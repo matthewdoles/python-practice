@@ -24,13 +24,3 @@ def greet(person):
 hello()
 greet("Matthew")
 greet("John")
-
-#Hello, World!
-#5
-#2 + 3 = 5
-#Hello
-#Computers are fun!
-#Hello Matthew
-#How are you?
-#Hello John
-#How are you?

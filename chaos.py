@@ -7,7 +7,7 @@ def chaos():
         print(x)
 
 
-# chaos function where x is changed to 2.0
+# exercise 3 & 4: chaos function where x is changed to 2.0
 def chaos2():
     print("This program illustrates a chaotic function")
     x = eval(input("Enter a number between 0 and 1: "))
@@ -16,7 +16,7 @@ def chaos2():
         print(x)
 
 
-# chaos function where user defines number of printed numbers
+# exercise 5: chaos function where user defines number of printed numbers
 def chaos3():
     print("This program illustrates a chaotic function")
     n = eval(input("How many numbers should I print? "))
@@ -26,7 +26,7 @@ def chaos3():
         print(x)
 
 
-# chaos function re-writing the same formula in various ways
+# exercise 6: chaos function re-writing the same formula in various ways
 def chaos4():
     print("Ths program illustrates a chaotic function")
     x = eval(input("Enter a number between 0 and 1: "))
@@ -40,7 +40,7 @@ def chaos4():
         print("{0:<30.20}{1:<30.20}{2:<30.20}".format(a, b, c))
 
 
-# chaos function that takes two inputs and prints into formatted table
+# exercise 7: chaos function that takes two inputs and prints into formatted table
 def chaos5():
     print("Ths program illustrates a chaotic function")
     x = float(input("Enter first number between 0 and 1: "))
